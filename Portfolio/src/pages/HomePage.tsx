@@ -63,19 +63,19 @@ export default function HomePage() {
               Shashwatha <br /> Karkera
             </h1>
 
-            <ul className="homeChips" aria-label="Highlights">
-              <li className="homeChip">Java · Spring Boot</li>
-              <li className="homeChip">React · TypeScript</li>
-              <li className="homeChip">C, C++</li>
-              <li className="homeChip">Python</li>
-              <li className="homeChip">AWS (EC2, S3, IAM, RDS, CloudWatch, VPC, Lambda)</li>
-              <li className="homeChip">MySQL, MongoDB, SQL, DynamoDB</li>
-            </ul>
+//             <ul className="homeChips" aria-label="Highlights">
+//               <li className="homeChip">Java · Spring Boot</li>
+//               <li className="homeChip">React · TypeScript</li>
+//               <li className="homeChip">C, C++</li>
+//               <li className="homeChip">Python</li>
+//               <li className="homeChip">AWS (EC2, S3, IAM, RDS, CloudWatch, VPC, Lambda)</li>
+//               <li className="homeChip">MySQL, MongoDB, SQL, DynamoDB</li>
+//             </ul>
 
-            <h2 className="homeRole">Full-stack engineer building reliable, high-performance systems.</h2>
+            <h2 className="homeRole">Full-stack engineer building reliable systems.</h2>
 
             <p className="homeBio">
-              I’m a full stack developer with 3 Years of experience designing and building
+              I’m a full stack developer with ~3 Years of experience designing and building
               end-to-end systems at JP Morgan Chase & Co, from frontend interfaces to backend services
               and databases. I enjoy tackling complex problems, optimizing
               performance, and writing clean, maintainable code.
